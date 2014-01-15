@@ -1,0 +1,12 @@
+.flashcard {
+    padding-top: 80px;
+    text-align: center;
+}
+
+#show-answer-btn {
+    margin-top: 20px;
+}
+
+#flashcard-answer {
+    height: 40px;
+}
